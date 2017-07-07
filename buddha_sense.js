@@ -27,7 +27,21 @@ var appStrings = {
         'Hatred does not cease by hatred, but only by love. This is the eternal rule.',
         '<prosody rate="medium">Those who are free of resentful thoughts, surely, find peace.</prosody>',
         '<prosody rate="slow">Give</prosody>, <prosody rate="medium">even if you only have a little</prosody>.',
-        'Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.'
+        'Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.',
+        'You will not be punished for your anger, you will be punished by your anger.',
+        'Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.',
+        'Peace comes from within. Do not seek it without.',
+        'The mind is everything. What you think you become.',
+        'It is better to conquer yourself than to win a thousand battles.',
+        'Your purpose in life is to find your purpose and give your whole heart and soul to it.',
+        'Every morning we are born again. What we do today, is what matters most.',
+        'Even death is not to be feared by one who has lived wisely.',
+        'True love is born from understanding.',
+        'To conquer oneself, is a greater task, than conquering others.',
+        'Pain is certain, suffering is optional.',
+        'There is no path to happiness, happiness is the path.',
+        'Happiness will never come to those who fail to appreciate what they already have.',
+        'As you walk and eat and travel, be where you are. Otherwise, you will miss most of your life.'
     ],
     SKILL_NAME: 'Buddha Sense',
     GET_FACT_MESSAGE: "Buddha says: ", //TODO
